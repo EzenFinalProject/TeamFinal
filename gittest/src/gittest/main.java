@@ -7,7 +7,27 @@ public class main {
 		System.out.println("init");
 		System.out.println("init2");
 		
+		CommentVO cmt = new CommentVO();
+		
+		cmt.setCno(1);
+		cmt.setWriter("전혜성");
+		cmt.setContent("깃허브 테스트용");
+		int cno = cmt.getCno();
+		String cw = cmt.getWriter();
+		String ct = cmt.getContent();
+		
+		System.out.println(cno);
+		System.out.println(cw);
+		System.out.println(ct);
+		
+		
+		
+		
 	}
+	
+	
+	
+
 	
 	public int plus(int a , int b) {
 		System.out.println(a+b);
