@@ -27,11 +27,14 @@ public class main {
 		mvo.setPwd("123");
 		mvo.setNickName("bbb");
 		
+		for (int i = 0; i <15; i++) {
+			System.out.println(i);
+		}
 		
 	}
 	
 	
-	//���� �޼���
+
 	public int asdf(int a, int b) {
 		int aaaaa =  a+b;
 		return aaaaa;
