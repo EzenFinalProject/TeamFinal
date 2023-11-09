@@ -26,6 +26,11 @@ public class main {
 	}
 	
 	
+	//µ¡¼À ¸Þ¼­µå
+	public int asdf(int a, int b) {
+		int aaaaa =  a+b;
+		return aaaaa;
+	}
 	
 
 	
