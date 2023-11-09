@@ -30,5 +30,11 @@ public class main {
 		int result = a*b;
 		return result;
 	}
+	
+	public double test2(int a , int b) {
+		double result = (double)a/b;
+		return result;
+	}
+	
 
 }
