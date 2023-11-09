@@ -27,9 +27,15 @@ public class main {
 		mvo.setPwd("123");
 		mvo.setNickName("bbb");
 		
+		for(int i=0; i<10; i++) {
+			System.out.println(i);
+		}
+		
+		
 		for (int i = 0; i <15; i++) {
 			System.out.println(i);
 		}
+		
 		
 	}
 	
@@ -81,5 +87,7 @@ public class main {
 	public void test5() {
 		
 	}
+	
+
 
 }
