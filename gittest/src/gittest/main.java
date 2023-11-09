@@ -10,8 +10,8 @@ public class main {
 		CommentVO cmt = new CommentVO();
 		
 		cmt.setCno(1);
-		cmt.setWriter("ÀüÇý¼º");
-		cmt.setContent("±êÇãºê Å×½ºÆ®¿ë");
+		cmt.setWriter("ì „í˜œì„±");
+		cmt.setContent("ê¹ƒí—ˆë¸Œ í…ŒìŠ¤íŠ¸ìš©");
 		int cno = cmt.getCno();
 		String cw = cmt.getWriter();
 		String ct = cmt.getContent();
@@ -21,6 +21,11 @@ public class main {
 		System.out.println(ct);
 		
 		
+		
+		MemberVO mvo = new MemberVO();
+		mvo.setId("aaa");
+		mvo.setPwd("123");
+		mvo.setNickName("bbb");
 		
 		
 	}
