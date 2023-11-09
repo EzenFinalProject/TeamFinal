@@ -14,12 +14,16 @@ public class main {
 		
 	}
 	
-	public void plus(int a , int b) {
+	public int plus(int a , int b) {
 		System.out.println(a+b);
+		int p = a+b;
+		return p;
 	}
 	
-	public void minus(int a , int b) {
+	public int minus(int a , int b) {
 		System.out.println(a-b);
+		int m = a-b;
+		return m;
 	}
 	
 
