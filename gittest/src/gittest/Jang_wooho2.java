@@ -1,16 +1,11 @@
 package gittest;
 
-public class Jang_wooho {
+public class Jang_wooho2 {
 	
 	public static void main(String[] args) {
 		
-		wooho();
 		
 		
-	}
-
-	public static void wooho() {
-		System.out.println("Jwh");
 	}
 	
 	public void test1() {
@@ -31,15 +26,4 @@ public class Jang_wooho {
 	public void test6() {
 		
 	}
-	public void test7() {
-		
-	}
-	public void test8() {
-		
-	}
-
-	public void test9() {
-		
-	}
-
 }
