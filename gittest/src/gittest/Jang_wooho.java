@@ -26,4 +26,7 @@ public class Jang_wooho {
 	public void test6() {
 		
 	}
+	public void test7() {
+		
+	}
 }
