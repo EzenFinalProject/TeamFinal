@@ -6,7 +6,9 @@ public class main {
 		System.out.println("init");
 	}
 	
-	
+	public void plus(int a , int b) {
+		System.err.println(a+b);
+	}
 	
 
 }
