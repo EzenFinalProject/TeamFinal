@@ -4,26 +4,13 @@ public class Jang_wooho {
 	
 	public static void main(String[] args) {
 		
+		wooho();
 		
 		
 	}
 	
-	public void test1() {
-		
+	public static void wooho() {
+		System.out.println("Jwh");
 	}
-	public void test2() {
-		
-	}
-	public void test3() {
-		
-	}
-	public void test4() {
-		
-	}
-	public void test5() {
-		
-	}
-	public void test6() {
-		
-	}
+	
 }
