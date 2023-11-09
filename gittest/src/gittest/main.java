@@ -28,10 +28,15 @@ public class main {
 		mvo.setNickName("bbb");
 		
 		
+		for(int i=0; i<10; i++) {
+			System.out.println(i);
+		}
+		
+		
 	}
 	
 	
-	//���� �޼���
+	
 	public int asdf(int a, int b) {
 		int aaaaa =  a+b;
 		return aaaaa;
@@ -78,5 +83,7 @@ public class main {
 	public void test5() {
 		
 	}
+	
+
 
 }
