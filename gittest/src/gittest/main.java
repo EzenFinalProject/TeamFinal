@@ -8,7 +8,6 @@ public class main {
 	
 	public void plus(int a , int b) {
 		System.err.println(a+b);
-		
 	}
 	
 
