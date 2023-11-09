@@ -8,7 +8,7 @@ public class Jang_wooho {
 		
 		
 	}
-	
+
 	public static void wooho() {
 		System.out.println("Jwh");
 	}
