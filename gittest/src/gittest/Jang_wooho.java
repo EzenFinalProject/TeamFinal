@@ -32,4 +32,7 @@ public class Jang_wooho {
 	public void test8() {
 		
 	}
+	public void test9() {
+		
+	}
 }
