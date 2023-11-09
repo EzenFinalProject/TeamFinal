@@ -29,5 +29,9 @@ public class main {
 		
 	}
 	
+	public void test6() {
+		
+	}
+	
 
 }
