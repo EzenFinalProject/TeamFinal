@@ -7,14 +7,9 @@ public class main {
 	}
 	
 	public void plus(int a , int b) {
-		System.out.println(a+b);
+		System.err.println(a+b);
 		
 	}
 	
-	public void minus(int a, int b) {
-		
-		System.out.println(a-b);
-	}
-	
-}
 
+}
