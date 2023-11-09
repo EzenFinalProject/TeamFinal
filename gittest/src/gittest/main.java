@@ -26,5 +26,9 @@ public class main {
 		return m;
 	}
 	
+	public int test(int a , int b) {
+		int result = a*b;
+		return result;
+	}
 
 }
