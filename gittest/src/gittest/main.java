@@ -10,8 +10,8 @@ public class main {
 		CommentVO cmt = new CommentVO();
 		
 		cmt.setCno(1);
-		cmt.setWriter("Å×½ºÆ®");
-		cmt.setContent("Å×½ºÆ®2");
+		cmt.setWriter("í…ŒìŠ¤íŠ¸1");
+		cmt.setContent("í…ŒìŠ¤íŠ¸2");
 		int cno = cmt.getCno();
 		String cw = cmt.getWriter();
 		String ct = cmt.getContent();
@@ -31,7 +31,7 @@ public class main {
 	}
 	
 	
-	//µ¡¼À ¸Þ¼­µå
+	//ï¿½ï¿½ï¿½ï¿½ ï¿½Þ¼ï¿½ï¿½ï¿½
 	public int asdf(int a, int b) {
 		int aaaaa =  a+b;
 		return aaaaa;
