@@ -13,6 +13,7 @@ public class TestVO {
 	private String test7;
 	private String test8;
 	private String test9;
+	private String test10;
 	
 	
 	public String getName() {
