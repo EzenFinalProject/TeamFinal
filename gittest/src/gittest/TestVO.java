@@ -14,6 +14,7 @@ public class TestVO {
 	private String test8;
 	private String test9;
 	private String test10;
+	private String test11;
 	
 	
 	public String getName() {
