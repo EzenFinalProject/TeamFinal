@@ -16,6 +16,7 @@ public class TestVO {
 	private String test10;
 	private String test11;
 	private String test12;
+	private String test13;
 	
 	
 	public String getName() {
