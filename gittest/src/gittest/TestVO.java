@@ -10,6 +10,7 @@ public class TestVO {
 	private String test4;
 	private String test5;
 	private String test6;
+	private String test7;
 	
 	
 	public String getName() {
