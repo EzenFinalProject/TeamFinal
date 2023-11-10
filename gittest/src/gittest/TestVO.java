@@ -8,6 +8,7 @@ public class TestVO {
 	private String test2;
 	private String test3;
 	private String test4;
+	private String test5;
 	
 	
 	public String getName() {
@@ -40,6 +41,13 @@ public class TestVO {
 	public void setTest4(String test4) {
 		this.test4 = test4;
 	}
+	public String getTest5() {
+		return test5;
+	}
+	public void setTest5(String test5) {
+		this.test5 = test5;
+	}
+	
 	
 	
 	
