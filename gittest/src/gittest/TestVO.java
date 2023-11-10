@@ -7,6 +7,7 @@ public class TestVO {
 	private String test1;
 	private String test2;
 	private String test3;
+	private String test4;
 	
 	
 	public String getName() {
@@ -33,6 +34,13 @@ public class TestVO {
 	public void setTest3(String test3) {
 		this.test3 = test3;
 	}
+	public String getTest4() {
+		return test4;
+	}
+	public void setTest4(String test4) {
+		this.test4 = test4;
+	}
+	
 	
 	
 
